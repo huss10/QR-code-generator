@@ -1,1 +1,1 @@
-# QR-code-generator
+Created a QR code generator using Node.js, Express.js, and JavaScript, enabling users to generate custom QR codes dynamically. The application features a simple interface and efficient backend processing, providing quick and reliable QR code generation.
